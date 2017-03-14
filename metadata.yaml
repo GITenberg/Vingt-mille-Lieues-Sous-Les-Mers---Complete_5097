@@ -1,6 +1,9 @@
 _repo: Vingt-mille-Lieues-Sous-Les-Mers---Complete_5097
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 20000 Lieues Sous Les Mers — Complete
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5097#Vingt-mille-Lieues-Sous-Les-Mers---Complete
 gutenberg_bookshelf:
 - FR Science fiction
 - Science Fiction
